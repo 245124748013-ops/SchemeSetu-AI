@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+*.zip
+backend/url_validation_report.json
+backend/ssl_validation_report.json
